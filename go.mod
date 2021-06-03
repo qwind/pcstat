@@ -1,4 +1,4 @@
-module github.com/tobert/pcstat
+module github.com/qwind/pcstat
 
 go 1.13
 
